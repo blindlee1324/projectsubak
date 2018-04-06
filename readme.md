@@ -90,6 +90,13 @@ PHP 내장 웹 서버를 구동한다.
 ### 삽입
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/insertion.gif)
 
+### 수정
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update1.gif)
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update2.gif)
+
+### 삭제
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/delete.gif)
+
 ## 라이선스
 
 이 소스코드는 [MIT](https://github.com/appkr/l5code/blob/master/LICENSE) 라이선스를 따른다.
