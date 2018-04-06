@@ -91,11 +91,11 @@ PHP 내장 웹 서버를 구동한다.
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/insertion.gif)
 
 ### 수정
-![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update1.gif)
-![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update2.gif)
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update_1.gif)
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update_2.gif)
 
 ### 삭제
-![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/delete.gif)
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/deletion.gif)
 
 ## 라이선스
 
