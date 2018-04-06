@@ -85,6 +85,11 @@ PHP 내장 웹 서버를 구동한다.
 
 이제 웹 브라우저에서 `http://localhost:8000`으로 접속해서 실습 예제의 동작을 확인한다.
 
+## 시나리오
+
+### 삽입
+![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/insertion.gif)
+
 ## 라이선스
 
 이 소스코드는 [MIT](https://github.com/appkr/l5code/blob/master/LICENSE) 라이선스를 따른다.
