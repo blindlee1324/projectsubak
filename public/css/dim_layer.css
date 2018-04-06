@@ -1,0 +1,108 @@
+    @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+    body {
+    	font-family: 'Noto Sans KR', serif;
+    }
+
+    .content__article p {
+    	font-size: 20px;
+    }
+
+    .content__article a:link {
+	    color: #CC0000;
+	    background: #A0A0A0;
+	    text-decoration: none;
+	}
+
+	/* visited link */
+	.content__article a:visited {
+	    color: #CC0000;
+	    background: #A0A0A0;
+	    text-decoration: none;
+	}
+
+	/* mouse over link */
+	.content__article a:hover {
+	    color: black;
+	    background: #66CC00;
+	    text-decoration: none;
+	}
+
+	/* selected link */
+	.content__article a:active {
+	    color: black;
+	    background: #66CC00;
+	    text-decoration: none;
+	}
+
+    .pop-layer .pop-container {
+      padding: 20px 25px;
+    }
+
+    .pop-layer p.ctxt {
+      color: #666;
+      line-height: 25px;
+    }
+
+    .pop-layer .btn-r {
+      width: 100%;
+      margin: 10px 0 20px;
+      padding-top: 10px;
+      border-top: 1px solid #DDD;
+      text-align: right;
+    }
+
+    .pop-layer {
+      display: none;
+      position: fixed;
+      top: 20%;
+      left: 15%;
+      width: 75%;
+      height: 400px;
+      background-color: #fff;
+      border: 5px solid #3571B5;
+      z-index: 10;
+      overflow-y: scroll;
+    }
+
+    .dim-layer {
+      display: none;
+      position: fixed;
+      _position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 100;
+    }
+
+    .dim-layer .dimBg {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #000;
+      opacity: .5;
+      filter: alpha(opacity=50);
+    }
+
+    .dim-layer .pop-layer {
+      display: block;
+    }
+
+    a.btn-layerClose {
+      display: inline-block;
+      height: 25px;
+      padding: 0 14px 0;
+      border: 1px solid #304a8a;
+      background-color: #3f5a9d;
+      font-size: 13px;
+      color: #fff;
+      line-height: 25px;
+    }
+
+    a.btn-layerClose:hover {
+      border: 1px solid #091940;
+      background-color: #1f326a;
+      color: #fff;
+    }
