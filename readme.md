@@ -85,16 +85,16 @@ PHP 내장 웹 서버를 구동한다.
 
 이제 웹 브라우저에서 `http://localhost:8000`으로 접속해서 실습 예제의 동작을 확인한다.
 
-## 시나리오
+## 시나리오(Scenario)
 
-### 삽입
+### 삽입(Insert)
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/insertion.gif)
 
-### 수정
+### 수정(Update)
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update_1.gif)
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/update_2.gif)
 
-### 삭제
+### 삭제(Delete)
 ![Alt Text](https://github.com/blindlee1324/projectsubak/blob/master/instruction/deletion.gif)
 
 ## 라이선스
